@@ -8,12 +8,11 @@ Uma calculadora simples e funcional desenvolvida com **HTML** e **CSS**, com um 
 
 ## ✨ Funcionalidades
 
-- Operações básicas: soma, subtração, multiplicação e divisão 
-- Botão de apagar (`CE`)
-- Cálculo de porcentagem
-- Limpar (`C`)
+- Operações básicas: soma, subtração, multiplicação, divisão
 - Suporte a ponto decimal
-- Design com efeito de vidro (blur translúcido)
+- Cálculo de porcentagem
+- Botão de apagar (`CE`)
+- - Limpar (`C`)
 
 ---
 
