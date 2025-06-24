@@ -12,7 +12,7 @@ Uma calculadora simples e funcional desenvolvida com **HTML** e **CSS**, com um 
 - Suporte a ponto decimal
 - Cálculo de porcentagem
 - Botão de apagar (`CE`)
-- - Limpar (`C`)
+- Limpar (`C`)
 
 ---
 
